@@ -6,9 +6,6 @@
 
   <p><b>Software Development</b> · Frontend/Backend · Web Development / App Development · Modder · Music Production / Mixing / Mastering · DJ</p>
   
-  <a href="mailto:fortyfourprod@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-fortyfourprod%40gmail.com-informational">
-  </a>
   <a href="https://fortyfoursmusic.space">
     <img alt="Website" src="https://img.shields.io/badge/Website-fortyfoursmusic.space-success">
   </a>
