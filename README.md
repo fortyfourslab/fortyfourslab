@@ -14,21 +14,16 @@
 ---
 
 ### 🧰 Tool Set
-<table align="center">
-  <tr>
-    <td><img alt="Lua"        height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" /></td>
-    <td><img alt="Python"     height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
-    <td><img alt="JavaScript" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
-    <td><img alt="Node.js"    height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
-    <td><img alt="React"      height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
-    <td><img alt="C++"        height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></td>
-  </tr>
-  <tr>
-    <td><img alt="Docker"     height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
-    <td><img alt="Podman"     height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" /></td>
-    <td><img alt="Azure"      height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></td>
-    <td><img alt="Azure DevOps" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" /></td>
-    <td><img alt="Git"        height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
-    <td></td>
-  </tr>
-</table>
+<p>
+  <img alt="Lua" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+  <img alt="Python" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="JavaScript" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="C++" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="Docker" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Podman" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" />
+  <img alt="Azure" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img alt="Azure DevOps" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" />
+  <img alt="Git" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</p>
