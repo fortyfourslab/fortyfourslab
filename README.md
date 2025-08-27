@@ -1,11 +1,10 @@
-<!-- Centered header with dark/light banner -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="FORTYFOUR." src="assets/banner-light.svg" width="720">
+    <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/uc?export=view&id=1IOTP5Jwm1t-DuW2ny65OBxhmNVUgM_bZ">
+    <img alt="FORTYFOUR." src="https://drive.google.com/uc?export=view&id=1IOTP5Jwm1t-DuW2ny65OBxhmNVUgM_bZ" width="720">
   </picture>
 
-  <p><b>Software Developer</b> · Frontend/Backend · Web Development / App Development · Modder · Music Production / Mixing / Mastering · DJ</p>
+  <p><b>Software Development</b> · Frontend/Backend · Web Development / App Development · Modder · Music Production / Mixing / Mastering · DJ</p>
   
   <a href="mailto:fortyfourprod@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-fortyfourprod%40gmail.com-informational">
