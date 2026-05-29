@@ -5,10 +5,6 @@
   </picture>
 
   <p><b>Software Development</b> · Frontend/Backend · Hobbyist</p>
-  
-  <a href="https://fortyfoursmusic.space">
-    <img alt="Website" src="https://img.shields.io/badge/Website-fortyfoursmusic.space-red">
-  </a>
 </div>
 
 ---
